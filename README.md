@@ -2,10 +2,6 @@
 
 This Project is about application of Blockchain on ImageChain
 
-## Synopsis : [LINK](https://docs.google.com/document/d/1Y584J7HkWkzzeIg7YXGg5b8bS5kTOO-lUHCrXBiuFUA/edit?usp=sharing)
-
-### Youtube Video Explanation : https://youtu.be/SICctF3MzKU
-
 ![BLOCKCHAIN PROJECT](https://user-images.githubusercontent.com/28294942/174148591-55bb60f0-c7c7-45b5-bd15-e2fb3c55ad58.png)
 
 Research Paper : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7796195/
@@ -54,21 +50,4 @@ Imaging studies are one of the leading drivers of modern medical decision making
 
 
 
-<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-
-Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
- 
-### Need Code, Documents & Explanation video ? 
-
-## How to Reach me :
-
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-Mail/Message me for Projects Help 🙏🏻
 
